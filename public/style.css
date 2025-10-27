@@ -81,6 +81,15 @@ ul {
   color: #f8bbd0;
 }
 
+img.img {
+  float: right;
+  margin-top: 10px;
+  margin-left: 15px;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: #880e4f 0 0 15px;
+}
+
 table {
   width: 100%;
   border-collapse: collapse;
@@ -131,3 +140,4 @@ footer a:hover {
   color: #ffffff;
   text-shadow: 0 0 8px #ff80ab;
 }
+
