@@ -90,6 +90,16 @@ img.img {
   box-shadow: #880e4f 0 0 15px;
 }
 
+a.vid {
+  color: rgb(232, 0, 116);
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+a[href]:visited {
+  color:rgb(246, 116, 87);
+}
+
 table {
   width: 100%;
   border-collapse: collapse;
@@ -140,4 +150,3 @@ footer a:hover {
   color: #ffffff;
   text-shadow: 0 0 8px #ff80ab;
 }
-
