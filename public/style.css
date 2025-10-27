@@ -96,7 +96,7 @@ a.vid {
   text-decoration: underline;
 }
 
-a[href]:visited {
+.vid:visited {
   color:rgb(246, 116, 87);
 }
 
